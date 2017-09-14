@@ -1,0 +1,38 @@
+.mrA {
+    color: white;
+}
+
+.left {
+    background: #86ff39;
+}
+
+.right {
+    background: #79e2ff;
+    padding: 10px;
+}
+
+.left, .right {
+    min-height: 300px
+}
+
+#listUser {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.useronl {
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+
+.title {
+    border-bottom: 2px solid black;
+    padding: 5px;
+    font-weight: 700;
+}
+#listmess{
+    height: 200px;
+    background: #ece3e3;
+    overflow-y: auto;
+}
